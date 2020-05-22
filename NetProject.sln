@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetRequestAndParse", "ClassLibrary1\GetRequestAndParse.csproj", "{66DE9846-DC51-402F-8CD8-A03251ED3F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetProjectForm", "NetProjectForm\NetProjectForm.csproj", "{EFB406D8-1FF7-4573-920B-632A7B814F42}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ChuckNorrisSetup", "ChuckNorrisSetup\ChuckNorrisSetup.vdproj", "{8BAFAC3E-BB2B-4B10-8DC3-45011D120CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DE9846-DC51-402F-8CD8-A03251ED3F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DE9846-DC51-402F-8CD8-A03251ED3F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DE9846-DC51-402F-8CD8-A03251ED3F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DE9846-DC51-402F-8CD8-A03251ED3F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB406D8-1FF7-4573-920B-632A7B814F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB406D8-1FF7-4573-920B-632A7B814F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB406D8-1FF7-4573-920B-632A7B814F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB406D8-1FF7-4573-920B-632A7B814F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BAFAC3E-BB2B-4B10-8DC3-45011D120CB7}.Debug|Any CPU.ActiveCfg = Debug
+		{8BAFAC3E-BB2B-4B10-8DC3-45011D120CB7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC22C85-65B5-4003-824D-8E8C20851E82}
+	EndGlobalSection
+EndGlobal

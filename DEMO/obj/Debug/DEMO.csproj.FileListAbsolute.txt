@@ -1,0 +1,14 @@
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\DEMO.exe
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\DEMO.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\ClassLibrary1.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\obj\Debug\DEMO.csproj.CopyComplete
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\obj\Debug\DEMO.exe
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\obj\Debug\DEMO.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\DEMO\bin\Debug\Newtonsoft.Json.xml

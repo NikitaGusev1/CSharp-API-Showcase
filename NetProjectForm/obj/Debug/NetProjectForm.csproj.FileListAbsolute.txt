@@ -1,0 +1,17 @@
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\NetProjectForm.exe.config
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\NetProjectForm.exe
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\NetProjectForm.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\ClassLibrary1.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.Form1.resources
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.Properties.Resources.resources
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.csproj.CopyComplete
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.exe
+C:\Users\Nikita\source\repos\ClassLibrary1\NetProjectForm\obj\Debug\NetProjectForm.pdb

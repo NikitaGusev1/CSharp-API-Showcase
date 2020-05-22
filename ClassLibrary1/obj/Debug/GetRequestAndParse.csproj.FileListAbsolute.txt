@@ -1,0 +1,13 @@
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\GetRequestAndParse.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\GetRequestAndParse.csproj.CopyComplete
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Nikita\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\GetRequestAndParse.csprojAssemblyReference.cache
